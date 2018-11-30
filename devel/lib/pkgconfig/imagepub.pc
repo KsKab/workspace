@@ -1,0 +1,8 @@
+prefix=/home/oem/workspace/devel
+
+Name: imagepub
+Description: Description of imagepub
+Version: 0.0.0
+Cflags: -I/home/oem/workspace/src/imagepub/include
+Libs: -L/home/oem/workspace/devel/lib 
+Requires: image_transport roscpp sensor_msgs std_msgs

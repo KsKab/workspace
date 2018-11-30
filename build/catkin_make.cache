@@ -1,0 +1,2 @@
+imagepub
+-DCATKIN_DEVEL_PREFIX=/home/oem/workspace/devel -DCMAKE_INSTALL_PREFIX=/home/oem/workspace/install -G Unix Makefiles
